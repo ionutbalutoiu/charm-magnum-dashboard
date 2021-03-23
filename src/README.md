@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The charm repo was moved to: https://opendev.org/openstack/charm-magnum-dashboard
+
 # Overview
 
 This subordinate charm provides the Magnum Dashboard plugin for use with the OpenStack Dashboard.
